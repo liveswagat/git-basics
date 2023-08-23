@@ -1,2 +1,2 @@
 # git-basics
-Here is the beginner phase of git repository.
+Here is my first git repository for testing Purpose.
